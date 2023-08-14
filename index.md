@@ -4,7 +4,8 @@ permalink: /standards-guidelines/aria/
 layout: default
 github:
   repository: w3c/wai-intro-aria
-feedbackmail: wai@w3.org
+feedbackmail: wai@w3.org 
+contact support: openworkspacesource@gmail.com
 footer: |
   <p><strong>Date:</strong> Updated 19 May 2022. First published December 2006.</p>
   <p><strong>Editors:</strong> James Nurthen, <a href="https://www.w3.org/People/cooper/">Michael Cooper</a>, <a href="https://www.w3.org/People/shawn/">Shawn Lawton Henry</a>.</p>
